@@ -1,0 +1,16 @@
+{
+  "name": "node-dbgp",
+  "version": "0.1.0",
+  "description": "Library that communicates with a Xdebug server",
+  "main": "./lib/DbgpDebugger.js",
+  "dependencies": {
+    "xml2js": "^0.4.8"
+  },
+  "author": {
+    "name": "Wesley Lancel",
+    "email": "wesleylancel@gmail.com"
+  },
+  "license": "MIT",
+  "repository": "wesleylancel/node-dbgp",
+  "homepage": "https://github.com/wesleylancel/node-dbgp"
+}
