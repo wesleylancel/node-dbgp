@@ -1,7 +1,0 @@
-# node-dbgp
-
-Library that communicates with a Xdebug server
-
-## Example
-
-`iojs --es_staging example.js`
