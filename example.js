@@ -1,7 +1,7 @@
 'use strict';
 
 var util = require('util'),
-    DbgpDebugger = require('./index');
+    DbgpDebugger = require('.');
 
 var debug = new DbgpDebugger();
 
